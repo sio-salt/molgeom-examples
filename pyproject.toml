@@ -1,0 +1,13 @@
+[project]
+name = "molgeom-examples"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "molgeom",
+]
+
+[tool.uv.sources]
+molgeom = { git = "https://github.com/sio-salt/molgeom", rev = "main" }
