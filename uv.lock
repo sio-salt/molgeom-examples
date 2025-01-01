@@ -218,7 +218,7 @@ wheels = [
 [[package]]
 name = "molgeom"
 version = "0.3.0"
-source = { git = "https://github.com/sio-salt/molgeom?rev=main#4db6d957edb3409f5da547f2f9ff1267fe8991b7" }
+source = { git = "https://github.com/sio-salt/molgeom?rev=main#d1bc047de7af017f74962d167fa61d082d33dba5" }
 dependencies = [
     { name = "cachetools" },
     { name = "networkx" },
