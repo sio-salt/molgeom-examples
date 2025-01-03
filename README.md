@@ -4,7 +4,7 @@ Basic tutorial of molgeom library.
 
 You can play around example codes in Jupyter Notebook with Binder.
 
-## Binder URL
+## Binder Link
 [![Try Example Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sio-salt/molgeom-examples/main?labpath=notebooks%2Ftutorial1.ipynb)
 
 ### molgeom source
