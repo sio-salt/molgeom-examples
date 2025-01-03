@@ -16,7 +16,7 @@ jedi==0.19.2
 jupyter-client==8.6.3 
 jupyter-core==5.7.2 
 matplotlib-inline==0.1.7 
-molgeom @ git+https://github.com/sio-salt/molgeom@d1bc047de7af017f74962d167fa61d082d33dba5
+molgeom @ git+https://github.com/sio-salt/molgeom@8260f7c8d534c8c032a212d35e13fd0a27d4055c
 nest-asyncio==1.6.0 
 networkx==3.4.2 
 packaging==24.2 
