@@ -7,7 +7,7 @@ Easily experiment with example codes directly in your browser using Jupyter Note
 ## Try the Tutorial
 Click below to explore the example notebook:
 
-[![Try Example Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sio-salt/molgeom-examples/main?urlpath=lab/tree/notebooks/tutorial1.ipynb&urlpath=lab/tree/notebooks/tutorial2.ipynb)
+[![Try Example Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sio-salt/molgeom-examples/v0.2.2-main?urlpath=lab/tree/notebooks/tutorial1.ipynb&urlpath=lab/tree/notebooks/tutorial2.ipynb)
 
 ## About
 This repository provides interactive tutorials for the **molgeom** library.  
@@ -18,4 +18,4 @@ You can learn how to:
 
 ## Related Links
 - [molgeom Source Code](https://github.com/sio-salt/molgeom/tree/main)
-- [Jupyter Notebook](https://mybinder.org/v2/gh/sio-salt/molgeom-examples/main?urlpath=lab/tree/notebooks/tutorial1.ipynb&urlpath=lab/tree/notebooks/tutorial2.ipynb)
+- [Jupyter Notebook](https://mybinder.org/v2/gh/sio-salt/molgeom-examples/v0.2.2-main?urlpath=lab/tree/notebooks/tutorial1.ipynb&urlpath=lab/tree/notebooks/tutorial2.ipynb)
