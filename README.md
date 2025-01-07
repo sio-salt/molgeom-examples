@@ -17,5 +17,5 @@ You can learn how to:
 
 
 ## Related Links
-- [molgeom Source Code](https://github.com/sio-salt/molgeom/tree/main)
+- [molgeom Repository](https://github.com/sio-salt/molgeom/tree/main)
 - [Jupyter Notebook](https://mybinder.org/v2/gh/sio-salt/molgeom-examples/v0.2.2-main?urlpath=lab/tree/notebooks/tutorial1.ipynb&urlpath=lab/tree/notebooks/tutorial2.ipynb)
