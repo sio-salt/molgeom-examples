@@ -13,6 +13,7 @@ exclude_git/
 .pytest_cache
 .ruff_cache
 .mypy_cache
+.python-version
 
 .git-credentials
 
