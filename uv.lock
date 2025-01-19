@@ -229,16 +229,16 @@ wheels = [
 
 [[package]]
 name = "molgeom"
-version = "0.6.6"
+version = "0.6.8"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "cachetools" },
     { name = "click" },
     { name = "networkx" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/0b/d9/282add01f45cad14c174dd70058bb5835c6981bcb96df638a22711faec01/molgeom-0.6.6.tar.gz", hash = "sha256:6bdae0f76e2e1a4cd2f865696cf75c604e16b069aadfb5307560ad1636497884", size = 134051 }
+sdist = { url = "https://files.pythonhosted.org/packages/72/6a/993ed26b8c1271ad6e20de481a0b5590106d5df13f6e1cc87a884cdaba83/molgeom-0.6.8.tar.gz", hash = "sha256:d149331777b44ab115b8ad518387c3e7736462e34c06feecd6779b351b849266", size = 133956 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/cd/e4/2172839ece4c19615cc632fc4bd048dd50d97791f2e0cb42262008fb0002/molgeom-0.6.6-py3-none-any.whl", hash = "sha256:8c1fc335651c4b3805373d0e9cc91cf1f78eb6b41a2e8a2494e4b6e9f3adb9b5", size = 121816 },
+    { url = "https://files.pythonhosted.org/packages/52/4e/6d06039e6b917e7c96496ddc0230f5d9ed1a5d1031608f6c5fcf28f2718d/molgeom-0.6.8-py3-none-any.whl", hash = "sha256:531289c6c4c2c54aa39443f681626a75a67e3d543b2f8cb82b9c603ec08dda8b", size = 121917 },
 ]
 
 [[package]]
@@ -254,7 +254,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "ipykernel", specifier = ">=6.29.5" },
-    { name = "molgeom", specifier = ">=0.6.6" },
+    { name = "molgeom", specifier = ">=0.6.8" },
     { name = "py3dmol", specifier = ">=2.4.2" },
 ]
 

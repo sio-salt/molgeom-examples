@@ -6,6 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
-    "molgeom>=0.6.6",
+    "molgeom>=0.6.8",
     "py3dmol>=2.4.2",
 ]
